@@ -1,2 +1,2 @@
 # Functions-JavaScript
-JavaScript Function
+JavaScript Function Calculator
