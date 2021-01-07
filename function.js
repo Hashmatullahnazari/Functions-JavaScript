@@ -115,7 +115,7 @@ function addBy()
   var a = Number(num1.value);
   var b = Number(num2.value);
   var c = a + b;
-  output.innerHTML = output.innerHTML + a + "+" + b + "=" + c + "<br>" ;
+  output.innerHTML = output.innerHTML + a + "+" + b + "=" + c + "<br>";
   console.log (Number(num1.value) + Number(num2.value));
 
 }
@@ -126,7 +126,7 @@ function subBy()
   var a = Number(num1.value);
   var b = Number(num2.value);
   var c = a - b;
-  output.innerHTML = a + "-" + b + "=" + c ;
+  output.innerHTML = output.innerHTML + a + "-" + b + "=" + c + "<br>";
   console.log (Number(num1.value) - Number(num2.value));
 
 }
