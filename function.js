@@ -123,7 +123,7 @@ function addBy()
 
 function subBy()
 {
-   var a = Number(num1.value);
+  var a = Number(num1.value);
   var b = Number(num2.value);
   var c = a - b;
   output.innerHTML = a + "-" + b + "=" + c ;
